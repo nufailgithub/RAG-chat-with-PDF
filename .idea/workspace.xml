@@ -109,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744174324374</updated>
       <workItem from="1744174327477" duration="18195000" />
-      <workItem from="1744257473837" duration="3903000" />
+      <workItem from="1744257473837" duration="24111000" />
     </task>
     <servers />
   </component>
@@ -117,6 +117,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/chat_with_pdf_RAG__backend$colqwen_search_service.coverage" NAME="colqwen_search_service Coverage Results" MODIFIED="1744190824160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_with_pdf_RAG__backend$colqwen_search_service.coverage" NAME="colqwen_search_service Coverage Results" MODIFIED="1744362300236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
