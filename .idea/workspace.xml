@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c69c5e-cd27-4e81-8c5b-345335121e7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/colqwen_search_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/colqwen_search_service.py" afterDir="false" />
     </list>
@@ -24,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -35,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;HTTP Request.All in test_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.colqwen_search_service.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -48,7 +54,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.colqwen_search_service">
+  <component name="RunManager" selected="HTTP Request.All in test_main">
+    <configuration name="All in test_main" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test_main.http">
+      <method v="2" />
+    </configuration>
     <configuration name="colqwen_search_service" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="chat-with-pdf(RAG)-backend" />
       <option name="ENV_FILES" value="" />
@@ -89,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.All in test_main" />
         <item itemvalue="Python.colqwen_search_service" />
       </list>
     </recent_temporary>
@@ -113,7 +123,8 @@
       <workItem from="1744257473837" duration="24111000" />
       <workItem from="1744688519789" duration="2088000" />
       <workItem from="1744705269428" duration="4177000" />
-      <workItem from="1744787860399" duration="21954000" />
+      <workItem from="1744787860399" duration="26166000" />
+      <workItem from="1745208603305" duration="31184000" />
     </task>
     <servers />
   </component>
@@ -121,6 +132,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/chat_with_pdf_RAG__backend$colqwen_search_service.coverage" NAME="colqwen_search_service Coverage Results" MODIFIED="1744362300236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chat_with_pdf_RAG__backend$colqwen_search_service.coverage" NAME="colqwen_search_service Coverage Results" MODIFIED="1745238892985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
